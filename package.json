@@ -1,0 +1,30 @@
+{
+  "name": "unite-components",
+  "version": "0.0.1",
+  "description": "",
+  "main": "es/index.js",
+  "scripts": {
+    "dev": "father dev",
+    "build": "father build",
+    "build:deps": "father prebundle",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [],
+  "authors": [],
+  "license": "MIT",
+  "files": [
+    "dist",
+    "compiled"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "father": "^4.0.0-alpha.3"
+  },
+  "peerDependencies": {
+    "antd": "^4.21.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
