@@ -20,7 +20,10 @@
     "access": "public"
   },
   "devDependencies": {
-    "father": "^4.0.0-alpha.3"
+    "antd": "^4.21.5",
+    "father": "^4.0.0-alpha.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "peerDependencies": {
     "antd": "^4.21.5",
