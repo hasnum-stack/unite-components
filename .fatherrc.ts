@@ -3,17 +3,18 @@ import { defineConfig } from 'father';
 const EsWithCjsConf = {
   input: 'components',
   ignores: ['components/**/demo/*'],
+  extraBabelPlugins: [['import', { libraryName: 'antd', style: true }]],
 };
 
 export default defineConfig({
-  esm: {
-    output: 'es',
-    ...EsWithCjsConf,
-  },
-  cjs: {
-    output: 'lib',
-    ...EsWithCjsConf,
-  },
+  // esm: {
+  //   output: 'es',
+  //   ...EsWithCjsConf,
+  // },
+  // cjs: {
+  //   output: 'lib',
+  //   ...EsWithCjsConf,
+  // },
   umd: {
     entry: 'components',
     output: 'umd',
@@ -22,6 +23,14 @@ export default defineConfig({
       'react-dom': 'ReactDOM',
       antd: 'antd',
     },
+    extraBabelPlugins: [],
+    // chainWebpack: (config, { env, webpack }) => {
+    // },
+    // chainWebpack: (config, { env, webpack }) => {
+    //   // config
+    //   config.module.rule('babel').
+    //   return config;
+    // },
   },
   // prebundle: {},
   extraBabelPresets: [
@@ -33,6 +42,6 @@ export default defineConfig({
       },
     ],
   ],
-  extraBabelPlugins: [['import', { libraryName: 'antd', style: true }]],
+
   platform: 'browser',
 });

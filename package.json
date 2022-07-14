@@ -27,6 +27,13 @@
   "publishConfig": {
     "access": "public"
   },
+  "sideEffects": [
+    "components/**/style/*",
+    "dist/*",
+    "es/**/style/*",
+    "lib/**/style/*",
+    "*.less"
+  ],
   "devDependencies": {
     "antd": "^4.21.5",
     "babel-plugin-import": "^1.13.5",
