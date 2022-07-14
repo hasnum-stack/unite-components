@@ -1,5 +1,9 @@
-var _jsxFileName = "E:\\HASNUM\\ITEM\\unite-components\\components\\test-demo\\index.js",
-    _jsxFileName2 = "E:\\HASNUM\\ITEM\\unite-components\\components\\test-demo\\index.js";
+import "antd/lib/table/style";
+import _Table from "antd/lib/table";
+import "antd/lib/input/style";
+import _Input from "antd/lib/input";
+import "antd/lib/slider/style";
+import _Slider from "antd/lib/slider";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 
@@ -12,15 +16,12 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 
 import React from 'react';
-import { Input, Table, Slider } from 'antd'; // import 'antd/lib/slider/style/index'
 
-import "./style/index.less";
-
+// import 'antd/lib/slider/style/index'
+// import './style/index.less';
 var a = function a() {};
 
 function TestDemo(_ref) {
-  var _React$createElement, _React$createElement2, _React$createElement3, _React$createElement4;
-
   var _ref$a = _ref.a,
       a = _ref$a === void 0 ? 123 : _ref$a;
 
@@ -59,53 +60,11 @@ function TestDemo(_ref) {
     return new Promise(function () {});
   };
 
-  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement(Slider, (_React$createElement = {
-    defaultValue: 30,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25,
-      columnNumber: 7
-    }
-  }, _defineProperty(_React$createElement, "__self", this), _defineProperty(_React$createElement, "__source", {
-    fileName: _jsxFileName2,
-    lineNumber: 25,
-    columnNumber: 7
-  }), _React$createElement)), /*#__PURE__*/React.createElement("div", (_React$createElement2 = {
-    onClick: fn,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26,
-      columnNumber: 7
-    }
-  }, _defineProperty(_React$createElement2, "__self", this), _defineProperty(_React$createElement2, "__source", {
-    fileName: _jsxFileName2,
-    lineNumber: 26,
-    columnNumber: 7
-  }), _React$createElement2), "1234"), /*#__PURE__*/React.createElement(Input, (_React$createElement3 = {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27,
-      columnNumber: 7
-    }
-  }, _defineProperty(_React$createElement3, "__self", this), _defineProperty(_React$createElement3, "__source", {
-    fileName: _jsxFileName2,
-    lineNumber: 27,
-    columnNumber: 7
-  }), _React$createElement3)), /*#__PURE__*/React.createElement(Table, (_React$createElement4 = {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28,
-      columnNumber: 7
-    }
-  }, _defineProperty(_React$createElement4, "__self", this), _defineProperty(_React$createElement4, "__source", {
-    fileName: _jsxFileName2,
-    lineNumber: 28,
-    columnNumber: 7
-  }), _React$createElement4)), a);
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement(_Slider, {
+    defaultValue: 30
+  }), /*#__PURE__*/React.createElement("div", {
+    onClick: fn
+  }, "1234"), /*#__PURE__*/React.createElement(_Input, null), /*#__PURE__*/React.createElement(_Table, null), a);
 }
 
 export default TestDemo;

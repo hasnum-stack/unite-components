@@ -1,7 +1,7 @@
 import React from 'react';
 import { Input, Table, Slider } from 'antd';
 // import 'antd/lib/slider/style/index'
-import './style/index.less';
+// import './style/index.less';
 const a = () => {};
 function TestDemo({ a = 123 }) {
   const fn = async () => {

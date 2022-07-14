@@ -1,26 +1,36 @@
 {
-  "name": "unite-components",
+  "name": "@ehome/unite-components",
   "version": "0.0.1",
   "description": "",
   "main": "es/index.js",
   "scripts": {
+    "start": "rimraf .umi && pnpx dumi dev",
     "dev": "father dev",
     "build": "father build",
     "build:deps": "father prebundle",
     "prepublishOnly": "npm run build"
   },
-  "keywords": [],
-  "authors": [],
+  "keywords": [
+    "react",
+    "antd",
+    "components"
+  ],
+  "authors": [
+    "hasnum <hasnum@163.com>"
+  ],
   "license": "MIT",
   "files": [
-    "dist",
-    "compiled"
+    "es",
+    "lib",
+    "dist"
   ],
   "publishConfig": {
     "access": "public"
   },
   "devDependencies": {
     "antd": "^4.21.5",
+    "babel-plugin-import": "^1.13.5",
+    "dumi": "^1.1.45",
     "father": "^4.0.0-alpha.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"

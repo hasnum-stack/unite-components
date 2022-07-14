@@ -1,17 +1,27 @@
 import { defineConfig } from 'father';
 
+const EsWithCjsConf = {
+  input: 'components',
+  ignores: ['components/**/demo/*'],
+};
+
 export default defineConfig({
   esm: {
-    input: 'components',
     output: 'es',
+    ...EsWithCjsConf,
   },
   cjs: {
-    input: 'components',
     output: 'lib',
+    ...EsWithCjsConf,
   },
   umd: {
     entry: 'components',
     output: 'umd',
+    externals: {
+      react: 'React',
+      'react-dom': 'ReactDOM',
+      antd: 'antd',
+    },
   },
   // prebundle: {},
   extraBabelPresets: [
@@ -23,5 +33,6 @@ export default defineConfig({
       },
     ],
   ],
+  extraBabelPlugins: [['import', { libraryName: 'antd', style: true }]],
   platform: 'browser',
 });

@@ -1,31 +1,20 @@
 import React from 'react';
-console.log('🚀 ~ React', React);
-import { Button } from 'antd';
+import { Button, Select, Slider, Input } from 'antd';
+// import 'antd/lib/slider/style/index';
 // import './style/index';
 
-// function CountryCodeInput() {
-//   return (
-//     <>
-//       <div className="cnm6666666666">123</div>
-//       <Button>1231</Button>
-//     </>
-//   );
-// }
-class CountryCodeInput extends React.Component {
-  render() {
-    return (
-      <>
-        <Button
-          onClick={() => {
-            console.log(123);
-          }}
-        >
-          123
-        </Button>
-      </>
-    );
-  }
+function CountryCodeInput() {
+  return (
+    <>
+      <Input.Group compact>
+        <Select defaultValue='Zhejiang'>
+          <Option value='Zhejiang'>Zhejiang</Option>
+          <Option value='Jiangsu'>Jiangsu</Option>
+        </Select>
+        <Input style={{ width: '50%' }} defaultValue='Xihu District, Hangzhou' />
+      </Input.Group>
+    </>
+  );
 }
-export { CountryCodeInput };
-// CountryCodeInput.React = React;
-// export default { CountryCodeInput, Button };
+
+export default CountryCodeInput;

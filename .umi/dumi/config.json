@@ -1,0 +1,39 @@
+{
+  "menus": {
+    "en-US": {
+      "*": [
+        {
+          "path": "/",
+          "title": "title bs",
+          "meta": {}
+        },
+        {
+          "title": "Country-code-input",
+          "path": "/country-code-input",
+          "meta": {},
+          "children": [
+            {
+              "path": "/country-code-input",
+              "title": "国际码Input",
+              "meta": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "locales": [
+    {
+      "name": "en-US",
+      "label": "English"
+    }
+  ],
+  "navs": {},
+  "title": "@ehome/unite-components",
+  "mode": "doc",
+  "repository": {
+    "url": "",
+    "branch": "master"
+  },
+  "theme": {}
+}
