@@ -4,7 +4,5 @@ export default defineConfig({
     includes: ['docs', 'components'],
   },
   mfsu: {},
-  extraBabelPlugins: [
-    ['import', { libraryName: 'unite-components', libraryDirectory: 'es', style: true }, 'unite-components'],
-  ],
+  extraBabelPlugins: [['import', { libraryName: '@ehome/unite-components', style: true }, '@ehome/unite-componentsq']],
 });

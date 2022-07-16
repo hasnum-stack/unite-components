@@ -1,10 +1,11 @@
 {
   "name": "@ehome/unite-components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "main": "es/index.js",
+  "main": "lib/index.js",
+  "module": "es/index.js",
   "scripts": {
-    "start": "dumi dev",
+    "start": "rimraf .umi && pnpx dumi dev",
     "dev": "father dev",
     "build": "father build",
     "build:deps": "father prebundle",
@@ -27,20 +28,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "sideEffects": [
-    "components/**/style/*",
-    "dist/*",
-    "es/**/style/*",
-    "lib/**/style/*",
-    "*.less"
-  ],
   "devDependencies": {
     "antd": "^4.21.5",
     "babel-plugin-import": "^1.13.5",
     "dumi": "^1.1.45",
     "father": "^4.0.0-rc.3",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "rimraf": "^3.0.2"
   },
   "peerDependencies": {
     "antd": "^4.21.5",

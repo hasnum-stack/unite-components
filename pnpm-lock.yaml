@@ -7,6 +7,7 @@ specifiers:
   father: ^4.0.0-rc.3
   react: ^16.13.1
   react-dom: ^16.13.1
+  rimraf: ^3.0.2
 
 devDependencies:
   antd: registry.npmmirror.com/antd/4.21.6_wcqkhtmu7mswc6yz4uyexck3ty
@@ -15,6 +16,7 @@ devDependencies:
   father: 4.0.0-rc.3
   react: 16.14.0
   react-dom: 16.14.0_react@16.14.0
+  rimraf: 3.0.2
 
 packages:
 
@@ -5832,6 +5834,13 @@ packages:
       is-core-module: 2.9.0
       path-parse: 1.0.7
       supports-preserve-symlinks-flag: 1.0.0
+    dev: true
+
+  /rimraf/3.0.2:
+    resolution: {integrity: sha1-8aVAK6YiCtUswSgrrBrjqkn9Bho=}
+    hasBin: true
+    dependencies:
+      glob: 7.2.3
     dev: true
 
   /ripemd160/2.0.2:

@@ -7,31 +7,32 @@ const EsWithCjsConf = {
 };
 
 export default defineConfig({
-  // esm: {
-  //   output: 'es',
-  //   ...EsWithCjsConf,
-  // },
-  // cjs: {
-  //   output: 'lib',
-  //   ...EsWithCjsConf,
-  // },
-  umd: {
-    entry: 'components',
-    output: 'umd',
-    externals: {
-      react: 'React',
-      'react-dom': 'ReactDOM',
-      antd: 'antd',
-    },
-    extraBabelPlugins: [],
-    // chainWebpack: (config, { env, webpack }) => {
-    // },
-    // chainWebpack: (config, { env, webpack }) => {
-    //   // config
-    //   config.module.rule('babel').
-    //   return config;
-    // },
+  esm: {
+    output: 'es',
+    ...EsWithCjsConf,
   },
+  cjs: {
+    output: 'lib',
+    ...EsWithCjsConf,
+  },
+  //TODO 先不打umd了,单带抽离css
+  // umd: {
+  //   entry: 'components',
+  //   output: 'umd',
+  //   externals: {
+  //     react: 'React',
+  //     'react-dom': 'ReactDOM',
+  //     antd: 'antd',
+  //   },
+  //   extraBabelPlugins: [],
+  //   // chainWebpack: (config, { env, webpack }) => {
+  //   // },
+  //   // chainWebpack: (config, { env, webpack }) => {
+  //   //   // config
+  //   //   config.module.rule('babel').
+  //   //   return config;
+  //   // },
+  // },
   // prebundle: {},
   extraBabelPresets: [
     [

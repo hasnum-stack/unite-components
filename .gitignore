@@ -30,3 +30,7 @@ src/functions/index.js
 scripts/.cached
 
 /build
+
+/es
+/lib
+/umd
