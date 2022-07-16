@@ -3,6 +3,11 @@ export default defineConfig({
   resolve: {
     includes: ['docs', 'components'],
   },
-  mfsu: {},
-  extraBabelPlugins: [['import', { libraryName: '@ehome/unite-components', style: true }, '@ehome/unite-componentsq']],
+  extraBabelPlugins: [
+    [
+      'import',
+      { libraryName: '@ehome/unite-components', libraryDirectory: 'lib', style: true },
+      '@ehome/unite-components',
+    ],
+  ],
 });

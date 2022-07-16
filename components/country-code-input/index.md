@@ -8,4 +8,4 @@
 
 ## 配合表单使用
 
-<!-- <code src="./demo/withForm.jsx"></code> -->
+<code src="./demo/withForm.jsx"></code>

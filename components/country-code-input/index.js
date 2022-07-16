@@ -1,7 +1,6 @@
 import React from 'react';
 import { Form, Button, Select, Slider, Input } from 'antd';
-// import 'antd/lib/slider/style/index';
-// import './style/index';
+import './style/index';
 const FormItem = Form.Item;
 const prefixCls = 'country-code-input';
 function CountryCodeInput({ formItemConfig = {}, codeItemOption = [], ...rest }) {
