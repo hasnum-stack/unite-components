@@ -1,6 +1,6 @@
 {
   "name": "@ehome/unite-components",
-  "version": "0.0.1-beta.4",
+  "version": "0.0.1-beta.6",
   "description": "",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -38,9 +38,9 @@
     "rimraf": "^3.0.2"
   },
   "peerDependencies": {
-    "antd": "^4.21.5",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "antd": ">=4.21.3",
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.18.6"
