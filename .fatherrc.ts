@@ -3,7 +3,10 @@ import { defineConfig } from 'father';
 const EsWithCjsConf = {
   input: 'components',
   ignores: ['components/**/demo/*'],
-  extraBabelPlugins: [['import', { libraryName: 'antd', style: true }]],
+  extraBabelPlugins: [
+    require.resolve('@babel/plugin-transform-runtime'),
+    ['import', { libraryName: 'antd', style: true }],
+  ],
 };
 
 export default defineConfig({
@@ -43,6 +46,5 @@ export default defineConfig({
       },
     ],
   ],
-
   platform: 'browser',
 });

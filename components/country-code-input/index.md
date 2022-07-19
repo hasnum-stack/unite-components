@@ -2,10 +2,10 @@
 
 ---
 
-## 组件展示
+## 组件样式
 
 <code src="./demo/basic.jsx"></code>
 
-## 配合表单使用
+## 使用: 配合Form/Form.Item
 
 <code src="./demo/withForm.jsx"></code>

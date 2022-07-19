@@ -1,0 +1,2180 @@
+  [
+    {
+      "id": 1,
+      "name": "阿尔巴尼亚",
+      "code": 355,
+      "regionCode": "+355",
+      "pinyin": "AERBALIYA",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 2,
+      "name": "阿尔及利亚",
+      "code": 213,
+      "regionCode": "+213",
+      "pinyin": "AERJILIYA",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 3,
+      "name": "阿富汗",
+      "code": 93,
+      "regionCode": "+93",
+      "pinyin": "AFUHAN",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 4,
+      "name": "阿根廷",
+      "code": 54,
+      "regionCode": "+54",
+      "pinyin": "AGENTING",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 5,
+      "name": "爱尔兰",
+      "code": 353,
+      "regionCode": "+353",
+      "pinyin": "AIERLAN",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 6,
+      "name": "埃及",
+      "code": 20,
+      "regionCode": "+20",
+      "pinyin": "AIJI",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 7,
+      "name": "埃塞俄比亚",
+      "code": 251,
+      "regionCode": "+251",
+      "pinyin": "AISAIEBIYA",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 8,
+      "name": "爱沙尼亚",
+      "code": 372,
+      "regionCode": "+372",
+      "pinyin": "AISHANIYA",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 9,
+      "name": "阿拉伯联合酋长国",
+      "code": 971,
+      "regionCode": "+971",
+      "pinyin": "ALABOLIANHEQIUZHANGGUO",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 10,
+      "name": "阿鲁巴",
+      "code": 297,
+      "regionCode": "+297",
+      "pinyin": "ALUBA",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 11,
+      "name": "阿曼",
+      "code": 968,
+      "regionCode": "+968",
+      "pinyin": "AMAN",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 12,
+      "name": "安道尔",
+      "code": 376,
+      "regionCode": "+376",
+      "pinyin": "ANDAOER",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 13,
+      "name": "安哥拉",
+      "code": 244,
+      "regionCode": "+244",
+      "pinyin": "ANGELA",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 14,
+      "name": "安圭拉",
+      "code": 1264,
+      "regionCode": "+1264",
+      "pinyin": "ANGUILA",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 15,
+      "name": "安提瓜和巴布达",
+      "code": 1268,
+      "regionCode": "+1268",
+      "pinyin": "ANTIGUAHEBABUDA",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 16,
+      "name": "澳大利亚",
+      "code": 61,
+      "regionCode": "+61",
+      "pinyin": "AODALIYA",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 17,
+      "name": "奥地利",
+      "code": 43,
+      "regionCode": "+43",
+      "pinyin": "AODILI",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 18,
+      "name": "奥兰群岛",
+      "code": 358,
+      "regionCode": "+358",
+      "pinyin": "AOLANQUNDAO",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 19,
+      "name": "中国澳门",
+      "code": 853,
+      "regionCode": "+853",
+      "pinyin": "AOMEN",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 20,
+      "name": "阿塞拜疆",
+      "code": 994,
+      "regionCode": "+994",
+      "pinyin": "ASAIBAIJIANG",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 21,
+      "name": "阿森松岛",
+      "code": 247,
+      "regionCode": "+247",
+      "pinyin": "ASENSONGDAO",
+      "firstLetter": "A",
+      "hotFlag": 0
+    },
+    {
+      "id": 22,
+      "name": "巴巴多斯",
+      "code": 1246,
+      "regionCode": "+1246",
+      "pinyin": "BABADUOSI",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 23,
+      "name": "巴布亚新几内亚",
+      "code": 675,
+      "regionCode": "+675",
+      "pinyin": "BABUYAXINJINEIYA",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 24,
+      "name": "巴哈马",
+      "code": 1242,
+      "regionCode": "+1242",
+      "pinyin": "BAHAMA",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 25,
+      "name": "白俄罗斯",
+      "code": 375,
+      "regionCode": "+375",
+      "pinyin": "BAIELUOSI",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 26,
+      "name": "百慕大",
+      "code": 1441,
+      "regionCode": "+1441",
+      "pinyin": "BAIMUDA",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 27,
+      "name": "巴基斯坦",
+      "code": 92,
+      "regionCode": "+92",
+      "pinyin": "BAJISITAN",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 28,
+      "name": "巴拉圭",
+      "code": 595,
+      "regionCode": "+595",
+      "pinyin": "BALAGUI",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 29,
+      "name": "巴林",
+      "code": 973,
+      "regionCode": "+973",
+      "pinyin": "BALIN",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 30,
+      "name": "巴拿马",
+      "code": 507,
+      "regionCode": "+507",
+      "pinyin": "BANAMA",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 31,
+      "name": "保加利亚",
+      "code": 359,
+      "regionCode": "+359",
+      "pinyin": "BAOJIALIYA",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 32,
+      "name": "巴西",
+      "code": 55,
+      "regionCode": "+55",
+      "pinyin": "BAXI",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 33,
+      "name": "北马里亚纳群岛",
+      "code": 1670,
+      "regionCode": "+1670",
+      "pinyin": "BEIMALIYANAQUNDAO",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 34,
+      "name": "北马其顿",
+      "code": 389,
+      "regionCode": "+389",
+      "pinyin": "BEIMAQIDUN",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 35,
+      "name": "贝宁",
+      "code": 229,
+      "regionCode": "+229",
+      "pinyin": "BEINING",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 36,
+      "name": "比利时",
+      "code": 32,
+      "regionCode": "+32",
+      "pinyin": "BILISHI",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 37,
+      "name": "冰岛",
+      "code": 354,
+      "regionCode": "+354",
+      "pinyin": "BINGDAO",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 38,
+      "name": "博茨瓦纳",
+      "code": 267,
+      "regionCode": "+267",
+      "pinyin": "BOCIWANA",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 39,
+      "name": "波多黎各",
+      "code": 1787,
+      "regionCode": "+1787",
+      "pinyin": "BODUOLIGE",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 40,
+      "name": "波多黎各",
+      "code": 1939,
+      "regionCode": "+1939",
+      "pinyin": "BODUOLIGE",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 41,
+      "name": "波兰",
+      "code": 48,
+      "regionCode": "+48",
+      "pinyin": "BOLAN",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 42,
+      "name": "玻利维亚",
+      "code": 591,
+      "regionCode": "+591",
+      "pinyin": "BOLIWEIYA",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 43,
+      "name": "伯利兹",
+      "code": 501,
+      "regionCode": "+501",
+      "pinyin": "BOLIZI",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 44,
+      "name": "波斯尼亚与黑塞哥维那",
+      "code": 387,
+      "regionCode": "+387",
+      "pinyin": "BOSINIYAYUHEISAIGEWEINA",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 45,
+      "name": "不丹",
+      "code": 975,
+      "regionCode": "+975",
+      "pinyin": "BUDAN",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 46,
+      "name": "布基纳法索",
+      "code": 226,
+      "regionCode": "+226",
+      "pinyin": "BUJINAFASUO",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 47,
+      "name": "布隆迪",
+      "code": 257,
+      "regionCode": "+257",
+      "pinyin": "BULONGDI",
+      "firstLetter": "B",
+      "hotFlag": 0
+    },
+    {
+      "id": 48,
+      "name": "朝鲜",
+      "code": 850,
+      "regionCode": "+850",
+      "pinyin": "CHAOXIAN",
+      "firstLetter": "C",
+      "hotFlag": 0
+    },
+    {
+      "id": 49,
+      "name": "赤道几内亚",
+      "code": 240,
+      "regionCode": "+240",
+      "pinyin": "CHIDAOJINEIYA",
+      "firstLetter": "C",
+      "hotFlag": 0
+    },
+    {
+      "id": 50,
+      "name": "丹麦",
+      "code": 45,
+      "regionCode": "+45",
+      "pinyin": "DANMAI",
+      "firstLetter": "D",
+      "hotFlag": 0
+    },
+    {
+      "id": 51,
+      "name": "德国",
+      "code": 49,
+      "regionCode": "+49",
+      "pinyin": "DEGUO",
+      "firstLetter": "D",
+      "hotFlag": 0
+    },
+    {
+      "id": 52,
+      "name": "东帝汶",
+      "code": 670,
+      "regionCode": "+670",
+      "pinyin": "DONGDIWEN",
+      "firstLetter": "D",
+      "hotFlag": 0
+    },
+    {
+      "id": 53,
+      "name": "多哥共和国",
+      "code": 228,
+      "regionCode": "+228",
+      "pinyin": "DUOGEGONGHEGUO",
+      "firstLetter": "D",
+      "hotFlag": 0
+    },
+    {
+      "id": 54,
+      "name": "多米尼加共和国",
+      "code": 1809,
+      "regionCode": "+1809",
+      "pinyin": "DUOMINIJIAGONGHEGUO",
+      "firstLetter": "D",
+      "hotFlag": 0
+    },
+    {
+      "id": 55,
+      "name": "多米尼加共和国",
+      "code": 1829,
+      "regionCode": "+1829",
+      "pinyin": "DUOMINIJIAGONGHEGUO",
+      "firstLetter": "D",
+      "hotFlag": 0
+    },
+    {
+      "id": 56,
+      "name": "多米尼加共和国",
+      "code": 1849,
+      "regionCode": "+1849",
+      "pinyin": "DUOMINIJIAGONGHEGUO",
+      "firstLetter": "D",
+      "hotFlag": 0
+    },
+    {
+      "id": 57,
+      "name": "多米尼克",
+      "code": 1767,
+      "regionCode": "+1767",
+      "pinyin": "DUOMINIKE",
+      "firstLetter": "D",
+      "hotFlag": 0
+    },
+    {
+      "id": 58,
+      "name": "厄瓜多尔",
+      "code": 593,
+      "regionCode": "+593",
+      "pinyin": "EGUADUOER",
+      "firstLetter": "E",
+      "hotFlag": 0
+    },
+    {
+      "id": 59,
+      "name": "厄立特里亚",
+      "code": 291,
+      "regionCode": "+291",
+      "pinyin": "ELITELIYA",
+      "firstLetter": "E",
+      "hotFlag": 0
+    },
+    {
+      "id": 60,
+      "name": "俄罗斯",
+      "code": 7,
+      "regionCode": "+7",
+      "pinyin": "ELUOSI",
+      "firstLetter": "E",
+      "hotFlag": 0
+    },
+    {
+      "id": 61,
+      "name": "法国",
+      "code": 33,
+      "regionCode": "+33",
+      "pinyin": "FAGUO",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 62,
+      "name": "法罗群岛",
+      "code": 298,
+      "regionCode": "+298",
+      "pinyin": "FALUOQUNDAO",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 63,
+      "name": "梵蒂冈",
+      "code": 379,
+      "regionCode": "+379",
+      "pinyin": "FANDIGANG",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 64,
+      "name": "法属波利尼西亚",
+      "code": 689,
+      "regionCode": "+689",
+      "pinyin": "FASHUBOLINIXIYA",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 65,
+      "name": "法属瓜德罗普省",
+      "code": 590,
+      "regionCode": "+590",
+      "pinyin": "FASHUGUADELUOPUSHENG",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 66,
+      "name": "法属圭亚那",
+      "code": 594,
+      "regionCode": "+594",
+      "pinyin": "FASHUGUIYANA",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 67,
+      "name": "法属马提尼克",
+      "code": 596,
+      "regionCode": "+596",
+      "pinyin": "FASHUMATINIKE",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 68,
+      "name": "法属圣马丁",
+      "code": 590,
+      "regionCode": "+590",
+      "pinyin": "FASHUSHENGMADING",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 69,
+      "name": "斐济",
+      "code": 679,
+      "regionCode": "+679",
+      "pinyin": "FEIJI",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 70,
+      "name": "菲律宾",
+      "code": 63,
+      "regionCode": "+63",
+      "pinyin": "FEILVBIN",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 71,
+      "name": "芬兰",
+      "code": 358,
+      "regionCode": "+358",
+      "pinyin": "FENLAN",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 72,
+      "name": "佛得角",
+      "code": 238,
+      "regionCode": "+238",
+      "pinyin": "FODEJIAO",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 73,
+      "name": "福克兰群岛",
+      "code": 500,
+      "regionCode": "+500",
+      "pinyin": "FUKELANQUNDAO",
+      "firstLetter": "F",
+      "hotFlag": 0
+    },
+    {
+      "id": 74,
+      "name": "冈比亚",
+      "code": 220,
+      "regionCode": "+220",
+      "pinyin": "GANGBIYA",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 75,
+      "name": "刚果（布）",
+      "code": 242,
+      "regionCode": "+242",
+      "pinyin": "GANGGUOBU",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 76,
+      "name": "刚果（金）",
+      "code": 243,
+      "regionCode": "+243",
+      "pinyin": "GANGGUOJIN",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 77,
+      "name": "格陵兰",
+      "code": 299,
+      "regionCode": "+299",
+      "pinyin": "GELINGLAN",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 78,
+      "name": "格林纳达",
+      "code": 1473,
+      "regionCode": "+1473",
+      "pinyin": "GELINNADA",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 79,
+      "name": "格鲁吉亚",
+      "code": 995,
+      "regionCode": "+995",
+      "pinyin": "GELUJIYA",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 80,
+      "name": "哥伦比亚",
+      "code": 57,
+      "regionCode": "+57",
+      "pinyin": "GELUNBIYA",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 81,
+      "name": "哥斯达黎加",
+      "code": 506,
+      "regionCode": "+506",
+      "pinyin": "GESIDALIJIA",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 82,
+      "name": "关岛",
+      "code": 1671,
+      "regionCode": "+1671",
+      "pinyin": "GUANDAO",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 83,
+      "name": "古巴",
+      "code": 53,
+      "regionCode": "+53",
+      "pinyin": "GUBA",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 84,
+      "name": "圭亚那",
+      "code": 592,
+      "regionCode": "+592",
+      "pinyin": "GUIYANA",
+      "firstLetter": "G",
+      "hotFlag": 0
+    },
+    {
+      "id": 85,
+      "name": "海地",
+      "code": 509,
+      "regionCode": "+509",
+      "pinyin": "HAIDI",
+      "firstLetter": "H",
+      "hotFlag": 0
+    },
+    {
+      "id": 86,
+      "name": "韩国",
+      "code": 82,
+      "regionCode": "+82",
+      "pinyin": "HANGUO",
+      "firstLetter": "H",
+      "hotFlag": 0
+    },
+    {
+      "id": 87,
+      "name": "哈萨克斯坦",
+      "code": 7,
+      "regionCode": "+7",
+      "pinyin": "HASAKESITAN",
+      "firstLetter": "H",
+      "hotFlag": 0
+    },
+    {
+      "id": 88,
+      "name": "黑山",
+      "code": 382,
+      "regionCode": "+382",
+      "pinyin": "HEISHAN",
+      "firstLetter": "H",
+      "hotFlag": 0
+    },
+    {
+      "id": 89,
+      "name": "荷兰",
+      "code": 31,
+      "regionCode": "+31",
+      "pinyin": "HELAN",
+      "firstLetter": "H",
+      "hotFlag": 0
+    },
+    {
+      "id": 90,
+      "name": "荷属加勒比区",
+      "code": 599,
+      "regionCode": "+599",
+      "pinyin": "HESHUJIALEBIQU",
+      "firstLetter": "H",
+      "hotFlag": 0
+    },
+    {
+      "id": 91,
+      "name": "荷属圣马丁",
+      "code": 1721,
+      "regionCode": "+1721",
+      "pinyin": "HESHUSHENGMADING",
+      "firstLetter": "H",
+      "hotFlag": 0
+    },
+    {
+      "id": 92,
+      "name": "洪都拉斯",
+      "code": 504,
+      "regionCode": "+504",
+      "pinyin": "HONGDULASI",
+      "firstLetter": "H",
+      "hotFlag": 0
+    },
+    {
+      "id": 93,
+      "name": "加纳",
+      "code": 233,
+      "regionCode": "+233",
+      "pinyin": "JIANA",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 94,
+      "name": "加拿大",
+      "code": 1,
+      "regionCode": "+1",
+      "pinyin": "JIANADA",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 95,
+      "name": "柬埔寨",
+      "code": 855,
+      "regionCode": "+855",
+      "pinyin": "JIANPUZHAI",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 96,
+      "name": "加蓬",
+      "code": 241,
+      "regionCode": "+241",
+      "pinyin": "JIAPENG",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 97,
+      "name": "吉布提",
+      "code": 253,
+      "regionCode": "+253",
+      "pinyin": "JIBUTI",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 98,
+      "name": "捷克",
+      "code": 420,
+      "regionCode": "+420",
+      "pinyin": "JIEKE",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 99,
+      "name": "吉尔吉斯斯坦",
+      "code": 996,
+      "regionCode": "+996",
+      "pinyin": "JIERJISISITAN",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 100,
+      "name": "基里巴斯",
+      "code": 686,
+      "regionCode": "+686",
+      "pinyin": "JILIBASI",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 101,
+      "name": "津巴布韦",
+      "code": 263,
+      "regionCode": "+263",
+      "pinyin": "JINBABUWEI",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 102,
+      "name": "几内亚",
+      "code": 224,
+      "regionCode": "+224",
+      "pinyin": "JINEIYA",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 103,
+      "name": "几内亚比绍",
+      "code": 245,
+      "regionCode": "+245",
+      "pinyin": "JINEIYABISHAO",
+      "firstLetter": "J",
+      "hotFlag": 0
+    },
+    {
+      "id": 104,
+      "name": "开曼群岛",
+      "code": 1345,
+      "regionCode": "+1345",
+      "pinyin": "KAIMANQUNDAO",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 105,
+      "name": "喀麦隆",
+      "code": 237,
+      "regionCode": "+237",
+      "pinyin": "KAMAILONG",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 106,
+      "name": "卡塔尔",
+      "code": 974,
+      "regionCode": "+974",
+      "pinyin": "KATAER",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 107,
+      "name": "科科斯（基林）群岛",
+      "code": 61,
+      "regionCode": "+61",
+      "pinyin": "KEKESIJILINQUNDAO",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 108,
+      "name": "克罗地亚",
+      "code": 385,
+      "regionCode": "+385",
+      "pinyin": "KELUODIYA",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 109,
+      "name": "科摩罗",
+      "code": 269,
+      "regionCode": "+269",
+      "pinyin": "KEMOLUO",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 110,
+      "name": "肯尼亚",
+      "code": 254,
+      "regionCode": "+254",
+      "pinyin": "KENNIYA",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 111,
+      "name": "科特迪瓦",
+      "code": 225,
+      "regionCode": "+225",
+      "pinyin": "KETEDIWA",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 112,
+      "name": "科威特",
+      "code": 965,
+      "regionCode": "+965",
+      "pinyin": "KEWEITE",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 113,
+      "name": "库克群岛",
+      "code": 682,
+      "regionCode": "+682",
+      "pinyin": "KUKEQUNDAO",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 114,
+      "name": "库拉索",
+      "code": 599,
+      "regionCode": "+599",
+      "pinyin": "KULASUO",
+      "firstLetter": "K",
+      "hotFlag": 0
+    },
+    {
+      "id": 115,
+      "name": "莱索托",
+      "code": 266,
+      "regionCode": "+266",
+      "pinyin": "LAISUOTUO",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 116,
+      "name": "老挝",
+      "code": 856,
+      "regionCode": "+856",
+      "pinyin": "LAOGUO",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 117,
+      "name": "拉脱维亚",
+      "code": 371,
+      "regionCode": "+371",
+      "pinyin": "LATUOWEIYA",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 118,
+      "name": "黎巴嫩",
+      "code": 961,
+      "regionCode": "+961",
+      "pinyin": "LIBANEN",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 119,
+      "name": "利比里亚",
+      "code": 231,
+      "regionCode": "+231",
+      "pinyin": "LIBILIYA",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 120,
+      "name": "利比亚",
+      "code": 218,
+      "regionCode": "+218",
+      "pinyin": "LIBIYA",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 121,
+      "name": "列支敦士登",
+      "code": 423,
+      "regionCode": "+423",
+      "pinyin": "LIEZHIDUNSHIDENG",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 122,
+      "name": "立陶宛",
+      "code": 370,
+      "regionCode": "+370",
+      "pinyin": "LITAOWAN",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 123,
+      "name": "留尼汪",
+      "code": 262,
+      "regionCode": "+262",
+      "pinyin": "LIUNIWANG",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 124,
+      "name": "罗马尼亚",
+      "code": 40,
+      "regionCode": "+40",
+      "pinyin": "LUOMANIYA",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 125,
+      "name": "卢森堡",
+      "code": 352,
+      "regionCode": "+352",
+      "pinyin": "LUSENBAO",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 126,
+      "name": "卢旺达",
+      "code": 250,
+      "regionCode": "+250",
+      "pinyin": "LUWANGDA",
+      "firstLetter": "L",
+      "hotFlag": 0
+    },
+    {
+      "id": 127,
+      "name": "马达加斯加",
+      "code": 261,
+      "regionCode": "+261",
+      "pinyin": "MADAJIASIJIA",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 128,
+      "name": "马恩岛",
+      "code": 44,
+      "regionCode": "+44",
+      "pinyin": "MAENDAO",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 129,
+      "name": "马尔代夫",
+      "code": 960,
+      "regionCode": "+960",
+      "pinyin": "MAERDAIFU",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 130,
+      "name": "马耳他",
+      "code": 356,
+      "regionCode": "+356",
+      "pinyin": "MAERTA",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 131,
+      "name": "马来西亚",
+      "code": 60,
+      "regionCode": "+60",
+      "pinyin": "MALAISIYA",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 132,
+      "name": "马拉维",
+      "code": 265,
+      "regionCode": "+265",
+      "pinyin": "MALAWEI",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 133,
+      "name": "马里",
+      "code": 223,
+      "regionCode": "+223",
+      "pinyin": "MALI",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 134,
+      "name": "毛里求斯",
+      "code": 230,
+      "regionCode": "+230",
+      "pinyin": "MAOLIQIUSI",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 135,
+      "name": "毛里塔尼亚",
+      "code": 222,
+      "regionCode": "+222",
+      "pinyin": "MAOLITANIYA",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 136,
+      "name": "马绍尔群岛",
+      "code": 692,
+      "regionCode": "+692",
+      "pinyin": "MASHAOERQUNDAO",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 137,
+      "name": "马约特",
+      "code": 262,
+      "regionCode": "+262",
+      "pinyin": "MAYUETE",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 138,
+      "name": "美国",
+      "code": 1,
+      "regionCode": "+1",
+      "pinyin": "MEIGUO",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 139,
+      "name": "美属萨摩亚",
+      "code": 1684,
+      "regionCode": "+1684",
+      "pinyin": "MEISHUSAMOYA",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 140,
+      "name": "美属维京群岛",
+      "code": 1340,
+      "regionCode": "+1340",
+      "pinyin": "MEISHUWEIJINGQUNDAO",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 141,
+      "name": "蒙古",
+      "code": 976,
+      "regionCode": "+976",
+      "pinyin": "MENGGU",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 142,
+      "name": "孟加拉国",
+      "code": 880,
+      "regionCode": "+880",
+      "pinyin": "MENGJIALAGUO",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 143,
+      "name": "蒙特塞拉特",
+      "code": 1664,
+      "regionCode": "+1664",
+      "pinyin": "MENGTESAILATE",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 144,
+      "name": "缅甸",
+      "code": 95,
+      "regionCode": "+95",
+      "pinyin": "MIANDIAN",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 145,
+      "name": "密克罗尼西亚",
+      "code": 691,
+      "regionCode": "+691",
+      "pinyin": "MIKELUONIXIYA",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 146,
+      "name": "秘鲁",
+      "code": 51,
+      "regionCode": "+51",
+      "pinyin": "MILU",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 147,
+      "name": "摩尔多瓦",
+      "code": 373,
+      "regionCode": "+373",
+      "pinyin": "MOERDUOWA",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 148,
+      "name": "摩洛哥",
+      "code": 212,
+      "regionCode": "+212",
+      "pinyin": "MOLUOGE",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 149,
+      "name": "摩纳哥",
+      "code": 377,
+      "regionCode": "+377",
+      "pinyin": "MOLUOGE",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 150,
+      "name": "莫桑比克",
+      "code": 258,
+      "regionCode": "+258",
+      "pinyin": "MOSANGBIKE",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 151,
+      "name": "墨西哥",
+      "code": 52,
+      "regionCode": "+52",
+      "pinyin": "MOXIGE",
+      "firstLetter": "M",
+      "hotFlag": 0
+    },
+    {
+      "id": 152,
+      "name": "纳米比亚",
+      "code": 264,
+      "regionCode": "+264",
+      "pinyin": "NAMINIYA",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 153,
+      "name": "南非",
+      "code": 27,
+      "regionCode": "+27",
+      "pinyin": "NANFEI",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 154,
+      "name": "南苏丹",
+      "code": 211,
+      "regionCode": "+211",
+      "pinyin": "NANSUDAN",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 155,
+      "name": "瑙鲁",
+      "code": 674,
+      "regionCode": "+674",
+      "pinyin": "NAOLU",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 156,
+      "name": "尼泊尔",
+      "code": 977,
+      "regionCode": "+977",
+      "pinyin": "NIBOER",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 157,
+      "name": "尼加拉瓜",
+      "code": 505,
+      "regionCode": "+505",
+      "pinyin": "NIJIALAGUO",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 158,
+      "name": "尼日尔",
+      "code": 227,
+      "regionCode": "+227",
+      "pinyin": "NIRIER",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 159,
+      "name": "尼日利亚",
+      "code": 234,
+      "regionCode": "+234",
+      "pinyin": "NIRILIYA",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 160,
+      "name": "纽埃",
+      "code": 683,
+      "regionCode": "+683",
+      "pinyin": "NIUAI",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 161,
+      "name": "诺福克岛",
+      "code": 672,
+      "regionCode": "+672",
+      "pinyin": "NUOFUKEDAO",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 162,
+      "name": "挪威",
+      "code": 47,
+      "regionCode": "+47",
+      "pinyin": "NUOWEI",
+      "firstLetter": "N",
+      "hotFlag": 0
+    },
+    {
+      "id": 163,
+      "name": "帕劳",
+      "code": 680,
+      "regionCode": "+680",
+      "pinyin": "PALAO",
+      "firstLetter": "P",
+      "hotFlag": 0
+    },
+    {
+      "id": 164,
+      "name": "葡萄牙",
+      "code": 351,
+      "regionCode": "+351",
+      "pinyin": "PUTAOYA",
+      "firstLetter": "P",
+      "hotFlag": 0
+    },
+    {
+      "id": 165,
+      "name": "日本",
+      "code": 81,
+      "regionCode": "+81",
+      "pinyin": "RIBEN",
+      "firstLetter": "R",
+      "hotFlag": 0
+    },
+    {
+      "id": 166,
+      "name": "瑞典",
+      "code": 46,
+      "regionCode": "+46",
+      "pinyin": "RUIDIAN",
+      "firstLetter": "R",
+      "hotFlag": 0
+    },
+    {
+      "id": 167,
+      "name": "瑞士",
+      "code": 41,
+      "regionCode": "+41",
+      "pinyin": "RUISHI",
+      "firstLetter": "R",
+      "hotFlag": 0
+    },
+    {
+      "id": 168,
+      "name": "萨尔瓦多",
+      "code": 503,
+      "regionCode": "+503",
+      "pinyin": "SAERWADUO",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 169,
+      "name": "塞尔维亚",
+      "code": 381,
+      "regionCode": "+381",
+      "pinyin": "SAIERWEIYA",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 170,
+      "name": "塞拉利昂",
+      "code": 232,
+      "regionCode": "+232",
+      "pinyin": "SAILALIANG",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 171,
+      "name": "塞内加尔",
+      "code": 221,
+      "regionCode": "+221",
+      "pinyin": "SAINEIJIAER",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 172,
+      "name": "塞浦路斯",
+      "code": 357,
+      "regionCode": "+357",
+      "pinyin": "SAIPULUSI",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 173,
+      "name": "塞舌尔",
+      "code": 248,
+      "regionCode": "+248",
+      "pinyin": "SAISHEER",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 174,
+      "name": "萨摩亚",
+      "code": 685,
+      "regionCode": "+685",
+      "pinyin": "SAMOYA",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 175,
+      "name": "沙特阿拉伯",
+      "code": 966,
+      "regionCode": "+966",
+      "pinyin": "SHATEALABO",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 176,
+      "name": "圣巴泰勒米",
+      "code": 590,
+      "regionCode": "+590",
+      "pinyin": "SHENGBATAILEMI",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 177,
+      "name": "圣诞岛",
+      "code": 61,
+      "regionCode": "+61",
+      "pinyin": "SHENGDANDAO",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 178,
+      "name": "圣多美和普林西比",
+      "code": 239,
+      "regionCode": "+239",
+      "pinyin": "SHENGDUOMEIHEPULINXIBI",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 179,
+      "name": "圣赫勒拿",
+      "code": 290,
+      "regionCode": "+290",
+      "pinyin": "SHENGHELENA",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 180,
+      "name": "圣基茨和尼维斯",
+      "code": 1869,
+      "regionCode": "+1869",
+      "pinyin": "SHENGJICIHENIWEISI",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 181,
+      "name": "圣卢西亚",
+      "code": 1758,
+      "regionCode": "+1758",
+      "pinyin": "SHENGLUXIYA",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 182,
+      "name": "圣马力诺",
+      "code": 378,
+      "regionCode": "+378",
+      "pinyin": "SHENGMALINUO",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 183,
+      "name": "圣皮埃尔岛和密克隆岛",
+      "code": 508,
+      "regionCode": "+508",
+      "pinyin": "SHENGPIAIERDAOHEMIKELONGDAO",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 184,
+      "name": "圣文森特和格林纳丁斯",
+      "code": 1784,
+      "regionCode": "+1784",
+      "pinyin": "SHENGWENDENTEHEGELINNADINGSI",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 185,
+      "name": "斯里兰卡",
+      "code": 94,
+      "regionCode": "+94",
+      "pinyin": "SILILANKA",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 186,
+      "name": "斯洛伐克",
+      "code": 421,
+      "regionCode": "+421",
+      "pinyin": "SILUOFAKE",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 187,
+      "name": "斯洛文尼亚",
+      "code": 386,
+      "regionCode": "+386",
+      "pinyin": "SILUOWENNIYA",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 188,
+      "name": "斯威士兰",
+      "code": 268,
+      "regionCode": "+268",
+      "pinyin": "SIWEISHILAN",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 189,
+      "name": "苏丹",
+      "code": 249,
+      "regionCode": "+249",
+      "pinyin": "SUDAN",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 190,
+      "name": "苏里南",
+      "code": 597,
+      "regionCode": "+597",
+      "pinyin": "SULINAN",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 191,
+      "name": "所罗门群岛",
+      "code": 677,
+      "regionCode": "+677",
+      "pinyin": "SUOLUOMENQUNDAO",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 192,
+      "name": "索马里",
+      "code": 252,
+      "regionCode": "+252",
+      "pinyin": "SUOMALI",
+      "firstLetter": "S",
+      "hotFlag": 0
+    },
+    {
+      "id": 193,
+      "name": "泰国",
+      "code": 66,
+      "regionCode": "+66",
+      "pinyin": "TAIGUO",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 194,
+      "name": "中国台湾",
+      "code": 886,
+      "regionCode": "+886",
+      "pinyin": "TAIWAN",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 195,
+      "name": "塔吉克斯坦",
+      "code": 992,
+      "regionCode": "+992",
+      "pinyin": "TAJIKESITAN",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 196,
+      "name": "汤加",
+      "code": 676,
+      "regionCode": "+676",
+      "pinyin": "TANGJIA",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 197,
+      "name": "坦桑尼亚",
+      "code": 255,
+      "regionCode": "+255",
+      "pinyin": "TANSANGNIYA",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 198,
+      "name": "特克斯和凯科斯群岛",
+      "code": 1649,
+      "regionCode": "+1649",
+      "pinyin": "TEKESIHEKAIKESIQUNDAO",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 199,
+      "name": "特立尼达和多巴哥",
+      "code": 1868,
+      "regionCode": "+1868",
+      "pinyin": "TELINIDAHEDUOBAGE",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 200,
+      "name": "特里斯坦-达库尼亚群岛",
+      "code": 290,
+      "regionCode": "+290",
+      "pinyin": "TELISITANDAKUNIYAQUNDAO",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 201,
+      "name": "土耳其",
+      "code": 90,
+      "regionCode": "+90",
+      "pinyin": "TUERQI",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 202,
+      "name": "土库曼斯坦",
+      "code": 993,
+      "regionCode": "+993",
+      "pinyin": "TUKUMANSITAN",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 203,
+      "name": "突尼斯",
+      "code": 216,
+      "regionCode": "+216",
+      "pinyin": "TUNISI",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 204,
+      "name": "托克劳",
+      "code": 690,
+      "regionCode": "+690",
+      "pinyin": "TUOKELAO",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 205,
+      "name": "图瓦卢",
+      "code": 688,
+      "regionCode": "+688",
+      "pinyin": "TUWALU",
+      "firstLetter": "T",
+      "hotFlag": 0
+    },
+    {
+      "id": 206,
+      "name": "瓦利斯和富图纳",
+      "code": 681,
+      "regionCode": "+681",
+      "pinyin": "WALISIHEFUTUNA",
+      "firstLetter": "W",
+      "hotFlag": 0
+    },
+    {
+      "id": 207,
+      "name": "瓦努阿图",
+      "code": 678,
+      "regionCode": "+678",
+      "pinyin": "WANUATU",
+      "firstLetter": "W",
+      "hotFlag": 0
+    },
+    {
+      "id": 208,
+      "name": "危地马拉",
+      "code": 502,
+      "regionCode": "+502",
+      "pinyin": "WEIDIMALA",
+      "firstLetter": "W",
+      "hotFlag": 0
+    },
+    {
+      "id": 209,
+      "name": "委内瑞拉",
+      "code": 58,
+      "regionCode": "+58",
+      "pinyin": "WEINEIRUILA",
+      "firstLetter": "W",
+      "hotFlag": 0
+    },
+    {
+      "id": 210,
+      "name": "文莱",
+      "code": 673,
+      "regionCode": "+673",
+      "pinyin": "WENLAI",
+      "firstLetter": "W",
+      "hotFlag": 0
+    },
+    {
+      "id": 211,
+      "name": "乌干达",
+      "code": 256,
+      "regionCode": "+256",
+      "pinyin": "WUGANDA",
+      "firstLetter": "W",
+      "hotFlag": 0
+    },
+    {
+      "id": 212,
+      "name": "乌克兰",
+      "code": 380,
+      "regionCode": "+380",
+      "pinyin": "WUKELAN",
+      "firstLetter": "W",
+      "hotFlag": 0
+    },
+    {
+      "id": 213,
+      "name": "乌拉圭",
+      "code": 598,
+      "regionCode": "+598",
+      "pinyin": "WULAGUI",
+      "firstLetter": "W",
+      "hotFlag": 0
+    },
+    {
+      "id": 214,
+      "name": "乌兹别克斯坦",
+      "code": 998,
+      "regionCode": "+998",
+      "pinyin": "WUZIBIEKESITAN",
+      "firstLetter": "W",
+      "hotFlag": 0
+    },
+    {
+      "id": 215,
+      "name": "中国香港",
+      "code": 852,
+      "regionCode": "+852",
+      "pinyin": "XIANGGANG",
+      "firstLetter": "X",
+      "hotFlag": 0
+    },
+    {
+      "id": 216,
+      "name": "西班牙",
+      "code": 34,
+      "regionCode": "+34",
+      "pinyin": "XIBANYA",
+      "firstLetter": "X",
+      "hotFlag": 0
+    },
+    {
+      "id": 217,
+      "name": "希腊",
+      "code": 30,
+      "regionCode": "+30",
+      "pinyin": "XILA",
+      "firstLetter": "X",
+      "hotFlag": 0
+    },
+    {
+      "id": 218,
+      "name": "新加坡",
+      "code": 65,
+      "regionCode": "+65",
+      "pinyin": "XINJIAPO",
+      "firstLetter": "X",
+      "hotFlag": 0
+    },
+    {
+      "id": 219,
+      "name": "新喀里多尼亚",
+      "code": 687,
+      "regionCode": "+687",
+      "pinyin": "XINKALIDUONIYA",
+      "firstLetter": "X",
+      "hotFlag": 0
+    },
+    {
+      "id": 220,
+      "name": "新西兰",
+      "code": 64,
+      "regionCode": "+64",
+      "pinyin": "XINXILAN",
+      "firstLetter": "X",
+      "hotFlag": 0
+    },
+    {
+      "id": 221,
+      "name": "匈牙利",
+      "code": 36,
+      "regionCode": "+36",
+      "pinyin": "XIONGYALI",
+      "firstLetter": "X",
+      "hotFlag": 0
+    },
+    {
+      "id": 222,
+      "name": "叙利亚",
+      "code": 963,
+      "regionCode": "+963",
+      "pinyin": "XULIYA",
+      "firstLetter": "X",
+      "hotFlag": 0
+    },
+    {
+      "id": 223,
+      "name": "牙买加",
+      "code": 1876,
+      "regionCode": "+1876",
+      "pinyin": "YAMAIJIA",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 224,
+      "name": "亚美尼亚",
+      "code": 374,
+      "regionCode": "+374",
+      "pinyin": "YAMEINIYA",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 225,
+      "name": "也门",
+      "code": 967,
+      "regionCode": "+967",
+      "pinyin": "YEMEN",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 226,
+      "name": "意大利",
+      "code": 39,
+      "regionCode": "+39",
+      "pinyin": "YIDALI",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 227,
+      "name": "伊拉克",
+      "code": 964,
+      "regionCode": "+964",
+      "pinyin": "YILAKE",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 228,
+      "name": "伊朗",
+      "code": 98,
+      "regionCode": "+98",
+      "pinyin": "YILANG",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 229,
+      "name": "印度",
+      "code": 91,
+      "regionCode": "+91",
+      "pinyin": "YINDU",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 230,
+      "name": "印度尼西亚",
+      "code": 62,
+      "regionCode": "+62",
+      "pinyin": "YINDUNIXIYA",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 231,
+      "name": "英国",
+      "code": 44,
+      "regionCode": "+44",
+      "pinyin": "YINGGUO",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 232,
+      "name": "英属维京群岛",
+      "code": 1284,
+      "regionCode": "+1284",
+      "pinyin": "YINGSHUWEIJINGQUNDAO",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 233,
+      "name": "英属印度洋领地",
+      "code": 246,
+      "regionCode": "+246",
+      "pinyin": "YINGSHUYINDUYANGLINGDI",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 234,
+      "name": "以色列",
+      "code": 972,
+      "regionCode": "+972",
+      "pinyin": "YISELIE",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 235,
+      "name": "约旦",
+      "code": 962,
+      "regionCode": "+962",
+      "pinyin": "YUEDAN",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 236,
+      "name": "越南",
+      "code": 84,
+      "regionCode": "+84",
+      "pinyin": "YUENAN",
+      "firstLetter": "Y",
+      "hotFlag": 0
+    },
+    {
+      "id": 237,
+      "name": "赞比亚",
+      "code": 260,
+      "regionCode": "+260",
+      "pinyin": "ZANBIYA",
+      "firstLetter": "Z",
+      "hotFlag": 0
+    },
+    {
+      "id": 238,
+      "name": "乍得",
+      "code": 235,
+      "regionCode": "+235",
+      "pinyin": "ZHADE",
+      "firstLetter": "Z",
+      "hotFlag": 0
+    },
+    {
+      "id": 239,
+      "name": "直布罗陀",
+      "code": 350,
+      "regionCode": "+350",
+      "pinyin": "ZHIBULUOTUO",
+      "firstLetter": "Z",
+      "hotFlag": 0
+    },
+    {
+      "id": 240,
+      "name": "智利",
+      "code": 56,
+      "regionCode": "+56",
+      "pinyin": "ZHILI",
+      "firstLetter": "Z",
+      "hotFlag": 0
+    },
+    {
+      "id": 241,
+      "name": "中非共和国",
+      "code": 236,
+      "regionCode": "+236",
+      "pinyin": "ZHONGFEIGONGHEGUO",
+      "firstLetter": "Z",
+      "hotFlag": 0
+    },
+    {
+      "id": 242,
+      "name": "中国大陆",
+      "code": 86,
+      "regionCode": "+86",
+      "pinyin": "ZHONGGUODALU",
+      "firstLetter": "Z",
+      "hotFlag": 0
+    }
+  ]

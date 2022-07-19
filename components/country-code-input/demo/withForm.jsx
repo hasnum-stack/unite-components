@@ -1,6 +1,8 @@
 import React from 'react';
-import { Form, Button, Row, Col } from 'antd';
+import { Form, Button, Row, Col, Input, Divider } from 'antd';
 import { CountryCodeInput } from '@ehome/unite-components';
+import countryCodeList from './countryCodeList.json';
+
 const FormItem = Form.Item;
 function WithForm() {
   const [form] = Form.useForm();
@@ -11,31 +13,34 @@ function WithForm() {
         onFinish={v => {
           console.log('🚀 ~ WithForm ~ v', v);
         }}
+        // layout='vertical'
       >
-        <FormItem>
+        <FormItem label='输入框' required>
+          <Input></Input>
+        </FormItem>
+        <FormItem label='手机号码' colon={false} required>
           <CountryCodeInput
-            formItemConfig={{
-              codeItemName: 'code',
-              inputItemName: 'phone',
+            codeItemOption={countryCodeList}
+            inputFormItemPorps={{
+              rules: [{ required: true, message: 'Please input your username!' }],
             }}
-            codeItemOption={[
-              {
-                label: 'Zhejiang',
-                value: 'Zhejiang',
-              },
-              {
-                label: 'Jiangsu',
-                value: 'Jiangsu',
-              },
-            ]}
           />
         </FormItem>
         <FormItem>
-          <Button type='primary' htmlType='submit'>
+          <Button
+            type='primary'
+            onClick={async () => {
+              const res = await form.validateFields();
+              console.log('🚀 ~ onClick={ ~ res', res);
+            }}
+          >
+            {/* htmlType='submit' */}
             获取value
           </Button>
         </FormItem>
       </Form>
+      <Divider />
+      <p>一般收集信息都会使用Form,所以组件内部使用Form.Item,外部需要使用Form,收集字段</p>
     </>
   );
 }
