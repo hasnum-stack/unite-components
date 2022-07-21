@@ -3,6 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@babel/plugin-transform-runtime': ^7.18.6
   '@babel/runtime': ^7.18.6
+  '@umijs/babel-preset-umi': ^3
   antd: ^4.21.5
   babel-plugin-import: ^1.13.5
   dumi: ^1.1.45
@@ -16,6 +17,7 @@ dependencies:
 
 devDependencies:
   '@babel/plugin-transform-runtime': 7.18.6
+  '@umijs/babel-preset-umi': 3.5.28
   antd: registry.npmmirror.com/antd/4.21.6_wcqkhtmu7mswc6yz4uyexck3ty
   babel-plugin-import: 1.13.5
   dumi: 1.1.45_wcqkhtmu7mswc6yz4uyexck3ty
@@ -1021,6 +1023,18 @@ packages:
       - supports-color
     dev: true
 
+  /@umijs/babel-preset-umi/4.0.7:
+    resolution: {integrity: sha512-P0YicHBwsnuZBP0j23P8Fh2ZVzQ6+iul8MJz+8f/rSUhTKeExmRNWJxxQlwdxojR92f9egvg0yJVuOknhvObnA==}
+    dependencies:
+      '@babel/runtime': 7.17.9
+      '@bloomberg/record-tuple-polyfill': 0.0.4
+      '@umijs/bundler-utils': 4.0.7
+      '@umijs/utils': 4.0.7
+      core-js: 3.22.4
+    transitivePeerDependencies:
+      - supports-color
+    dev: true
+
   /@umijs/bundler-esbuild/4.0.6:
     resolution: {integrity: sha512-4MaYqHiDCGdM0imSZ+YW8e4iw9uIcwluXQk1YeQMciUgNdChOjwMJzOB5dVM1ehjYxawnUSF2MHkNkoks6lzbA==}
     hasBin: true
@@ -1063,6 +1077,17 @@ packages:
     resolution: {integrity: sha512-7g3akUp37Y/H03Ar7lYl9FSljFHAU0rYNsAU0QSGzGVZIcRfjAi7ip4LAnE996ZikpVEcCCH8X9jAeuYw47sBg==}
     dependencies:
       '@umijs/utils': 4.0.6
+      esbuild: 0.14.36
+      regenerate-unicode-properties: 10.0.1
+      spdy: 4.0.2
+    transitivePeerDependencies:
+      - supports-color
+    dev: true
+
+  /@umijs/bundler-utils/4.0.7:
+    resolution: {integrity: sha512-GBQGhtuPvd/5IAolqZyZyeo1H1yMUFLdVXIQWcqqDIINPeEZCXrXGCLYF9kxSI3ovjc5g0Q5xhS25Sov6uDuFg==}
+    dependencies:
+      '@umijs/utils': 4.0.7
       esbuild: 0.14.36
       regenerate-unicode-properties: 10.0.1
       spdy: 4.0.2
@@ -1409,6 +1434,13 @@ packages:
 
   /@umijs/utils/4.0.6:
     resolution: {integrity: sha512-dyyF6V12LSjgj+Taf+P9Js2qxIkTKetnTdh7yOA4tYsW5kuZmQ+s/90epK6cLzUjvud34y0MLAkpYosUpF/+3w==}
+    dependencies:
+      chokidar: 3.5.3
+      pino: 7.11.0
+    dev: true
+
+  /@umijs/utils/4.0.7:
+    resolution: {integrity: sha512-KKzVwPa5CjowCOJr88sxxkPaenBfA8FiLcSD8Y1/97Uv+fhTKPsoTyn/D9Cj/CQl4GWYh2/CF96Vq2daxkor6w==}
     dependencies:
       chokidar: 3.5.3
       pino: 7.11.0
@@ -2872,7 +2904,7 @@ packages:
     hasBin: true
     dependencies:
       '@microsoft/api-extractor': 7.25.1
-      '@umijs/babel-preset-umi': 4.0.6
+      '@umijs/babel-preset-umi': 4.0.7
       '@umijs/bundler-utils': 4.0.6
       '@umijs/bundler-webpack': 4.0.6
       '@umijs/core': 4.0.6

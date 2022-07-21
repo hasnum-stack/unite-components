@@ -9,5 +9,6 @@ export default defineConfig({
       { libraryName: '@ehome/unite-components', libraryDirectory: 'lib', style: true },
       '@ehome/unite-components',
     ],
+    ['import', { libraryName: 'antd', style: true }],
   ],
 });

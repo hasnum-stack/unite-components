@@ -4,7 +4,7 @@
 
 ## 组件样式
 
-<code src="./demo/basic.jsx"></code>
+<!-- <code src="./demo/basic.jsx"></code> -->
 
 ## 使用: 配合Form/Form.Item
 
