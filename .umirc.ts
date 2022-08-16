@@ -1,5 +1,9 @@
 import { defineConfig } from 'dumi';
 export default defineConfig({
+  history: {
+    type: 'hash',
+  },
+  publicPath: './',
   resolve: {
     includes: ['docs', 'components'],
   },

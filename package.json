@@ -6,6 +6,7 @@
   "module": "es/index.js",
   "scripts": {
     "start": "dumi dev",
+    "dumi": "dumi",
     "dev": "father dev",
     "build": "father build",
     "build:deps": "father prebundle",
